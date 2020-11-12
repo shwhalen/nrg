@@ -1,6 +1,6 @@
-# Navigating the pitfalls of applying machine learning in genomics
+# Navigating the Pitfalls of Applying Machine Learning in Genomics
 
-The Jupyter notebooks in this repository accompany the paper "Navigating the pitfalls of applying machine learning in genomics", currently in review.
+The Jupyter notebooks in this repository accompany the paper "Navigating the Pitfalls of Applying Machine Learning in Genomics", currently in review.
 
 
 ## Running online
@@ -14,5 +14,4 @@ Click the button below to launch the notebooks in your browser via Binder.  This
 
     git clone https://github.com/shwhalen/ml-pitfalls.git
     pip install -r requirements.txt
-    cd notebooks
     jupyter notebook
